@@ -1,3 +1,3 @@
 ## SQLPractice
 
-This repo comprise various sql command practices over different data sets.
+This repo comprises various SQL command practices over different data sets.
